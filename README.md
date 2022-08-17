@@ -9,7 +9,7 @@
 
 ### Sử dụng
 
-1. Tải về và giải ném vào host của bạn
+1. Tải về và giải ném vào thư mục gốc trong host của bạn cùng với source code SHOPCLONE của CMSNT
 2. Cài cronjob vào url {domain}/{VERSION}.php để tự động crack sau khi update
 
 ### Ghi chú
